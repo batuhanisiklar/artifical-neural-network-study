@@ -1,0 +1,18 @@
+# IDE ayarları (PyCharm, IntelliJ)
+.idea/
+
+# Python bytecode dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortam klasörleri
+venv/
+.venv/
+
+# macOS gizli dosyaları
+.DS_Store
+
+# Diğer geçici dosyalar
+*.log
