@@ -106,5 +106,5 @@ _Connect with me through various portals :_
   </tr>
 </table>
 
-Feel free to clone this repository and use it as a template for your own "Arduino" journey. Enjoy learning!
+Feel free to clone this repository and use it as a template for your own "AI" journey. Enjoy learning!
 🤖☄️
